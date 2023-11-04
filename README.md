@@ -20,6 +20,9 @@ PsychGen is a revolutionary project aimed at utilizing the AutoGen framework to 
 - DALL-E for image generation.
 - Custom tools for video generation and mixing.
 
+# Product Demo
+[PsychGen App](https://psychgen.streamlit.app/)
+
 # Features / Pipeline
 - Psychological Chatbot: Profiling and initial psychotherapy script generation.
 - Speech Generation: Soft-spoken, meditative voice production.
