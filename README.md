@@ -1,10 +1,12 @@
 # PsychGen: AI-Driven Personalized Psychotherapy Sessions
 PsychGen is a revolutionary project aimed at utilizing the AutoGen framework to create AI-driven personalized psychotherapy sessions. Developed during the AutoGen Hackathon on Nov 2-3, 2023, this project seeks to democratize mental healthcare by making psychotherapy accessible, personalized, and cost-effective.
 
+![PsychGen-6](https://github.com/datasci888/AutoGEN_Hackathon/assets/119770980/00d2e84f-d01a-414b-a005-61b967af52ed)
+
 # Problem Statement
-- Rising global mental health issues
-- Inadequate access to personalized psychotherapy
-- High costs and stigma associated with traditional therapy
+- Rising global mental health issues.
+- Inadequate access to personalized psychotherapy.
+- High costs and stigma associated with traditional therapy.
 
 # Solution
 - AI-driven personalized psychotherapy sessions transitioning from text-to-audio, audio-to-music, and finally to video using AutoGen.
